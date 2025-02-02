@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Eae pessoas! Me chamo Alexandre, mas pode me chamar de Xande e sou iniciante na área de T.I. Estou diariamente estudando e me capacitando para se tornar um desenvolvedor Fullstack!</p>
+<p align="left">Eae pessoas! Me chamo Alexandre, mas pode me chamar de Xande e sou iniciante na área de T.I. Estou diariamente estudando e me capacitando para se tornar um desenvolvedor Full Stack!</p>
 
 ###
 
