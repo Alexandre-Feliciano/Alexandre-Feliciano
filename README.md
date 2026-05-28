@@ -6,15 +6,7 @@
 
 ###
 
-<p align="left">Eae pessoas! Me chamo Alexandre, mas pode me chamar de Xande e sou iniciante na área de T.I. Estou diariamente estudando e me capacitando para se tornar um desenvolvedor Full Stack!</p>
-
-###
-
-<h2 align="left">Formação acadêmica</h2>
-
-###
-
-<p align="left">Cursando ensino técnico em Informática no Instituto Federal da Bahia - Campus Jacobina (IFBA).</p>
+<p align="justify">Técnico em Informática pelo Instituto Federal da Bahia e estudante de Licenciatura em Computação na mesma instituição, tenho interesse nas áreas de desenvolvimento de software, educação tecnológica e inovação. Busco utilizar a tecnologia como ferramenta de transformação social, criando soluções que integrem conhecimento técnico, criatividade e impacto educacional. Meus objetivos envolvem ampliar minhas competências na área da computação, participar de projetos que promovam acessibilidade e aprendizagem, além de contribuir para o desenvolvimento de iniciativas tecnológicas voltadas à educação, sustentabilidade e inclusão digital.</p>
 
 ###
 
