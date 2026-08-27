@@ -26,6 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
+<div align="center">
+  <a href="https://github.com/Alexandre-Feliciano">
+    <img src="https://raw.githubusercontent.com/Alexandre-Feliciano/Alexandre-Feliciano/main/profile-grid.svg" alt="Profile Grid" width="100%" />
+  </a>
+</div>
+
 ###
 
 <div align="center">
